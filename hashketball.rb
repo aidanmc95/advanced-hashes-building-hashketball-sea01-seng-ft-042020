@@ -126,5 +126,3 @@ def game_hash
   }
   return game_info
 end
-
-puts game_hash[:home][:players][0][:player_name]
